@@ -2,8 +2,6 @@ package com.coxautodev.java.graphql.client.tests
 
 import com.apollographql.apollo.ApolloClient
 import com.coxautodev.graphql.tools.SchemaParser
-import com.coxautodev.java.graphql.client.tests.queries.GetBooksQuery
-import com.coxautodev.java.graphql.client.tests.queries.author.GetAuthorsQuery
 import com.fasterxml.jackson.databind.ObjectMapper
 import graphql.execution.SimpleExecutionStrategy
 import graphql.servlet.GraphQLServlet
